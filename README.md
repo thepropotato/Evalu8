@@ -21,7 +21,7 @@ The main objective is to build a portal, that can automate evaluations for an or
     - Faculty should be able to upload a test.
     - Students should be able to attend the test.
     - The portal should be able to handle MCQ questions, Descriptive and Coding questions in **Python** and **Matlab**.
-    - Since Engineering Math includes a lot of linear algebra and stuff, the webpage should be able to render Latex texts. To check whether this website can render a latex equation/text, we have built another simple website. If that does the job, this website works as expected.
+    - Since Engineering Math includes a lot of linear algebra and stuff, the webpage should be able to render Latex texts. To check whether this website can render a latex equation/text, we have built another simple <a href="thepropotato.github.io/e8latextester/">website</a>. If that does the job, this website works as expected.
 3. **LLM based automated evaluating system**
     - Students should have to write the logic for their code.
     - The portal should use an LLM to evaluate the code and logic.
@@ -60,7 +60,7 @@ The setup for this project is pretty simple and straight-forward. Just following
     - Also create a few databases in the connection. The connection should have the following databases.
 
     <div style="text-align:center;">
-    <img src="readme-images/setup-1.png" alt="Image 1 for Setup" width="50.75%" height="50%" style="display:inline-block; margin-right:20px; margin-left:-100px;">
+    <img src="readme-images/setup-1.png" alt="Image 1 for Setup" width="50%" height="50%" style="display:inline-block; margin-right:20px; margin-left:-100px;">
     <img src="readme-images/setup-2.png" alt="Image 2 for Setup" width="50%" height="50%" style="display:inline-block; margin-left:0px; margin-right:-124px;">
     </div>
 3. Now that we have the databases ready, you can proceed to import the data using the CSV sheets in the *data* folder.  (Read more about the databases [here.](#databases))
