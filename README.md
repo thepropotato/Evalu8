@@ -58,7 +58,7 @@ The setup for this project is pretty simple and straight-forward. Just following
 2. Install MongoDB Compass (GUI for MongoDB) on your system.
     - Create a connection of your choice.
     - Also create a few databases in the connection. The connection should have the following databases.
-
+    <br>
     <div style="text-align:center; display:flex; justify-content:space-between">
     <img src="readme-images/setup-1.png" alt="Image 1 for Setup" width="49.75%" height="50%" style="display:inline-block;">
     <img src="readme-images/setup-2.png" alt="Image 2 for Setup" width="49%" height="50%" style="display:inline-block;">
