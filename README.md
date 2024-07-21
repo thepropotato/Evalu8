@@ -59,7 +59,7 @@ The setup for this project is pretty simple and straight-forward. Just following
     - Create a connection of your choice.
     - Also create a few databases in the connection. The connection should have the following databases.
 
-    <div style="text-align:center;">
+    <div style="text-align:center; display:flex; justify-content:space-between">
     <img src="readme-images/setup-1.png" alt="Image 1 for Setup" width="50%" height="50%" style="display:inline-block;">
     <img src="readme-images/setup-2.png" alt="Image 2 for Setup" width="50%" height="50%" style="display:inline-block;">
     </div>
