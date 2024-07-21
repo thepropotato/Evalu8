@@ -21,7 +21,7 @@ The main objective is to build a portal, that can automate evaluations for an or
     - Faculty should be able to upload a test.
     - Students should be able to attend the test.
     - The portal should be able to handle MCQ questions, Descriptive and Coding questions in **Python** and **Matlab**.
-    - Since Engineering Math includes a lot of linear algebra and stuff, the webpage should be able to render Latex texts. To check whether this website can render a latex equation/text, we have built another simple <a href="thepropotato.github.io/e8latextester/">website</a>. If that does the job, this website works as expected.
+    - Since Engineering Math includes a lot of linear algebra and stuff, the webpage should be able to render Latex texts. To check whether this website can render a latex equation/text, we have built another simple <a href="https://thepropotato.github.io/e8latextester/">website</a>. If that does the job, this website works as expected.
 3. **LLM based automated evaluating system**
     - Students should have to write the logic for their code.
     - The portal should use an LLM to evaluate the code and logic.
