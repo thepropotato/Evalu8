@@ -60,8 +60,8 @@ The setup for this project is pretty simple and straight-forward. Just following
     - Also create a few databases in the connection. The connection should have the following databases.
 
     <div style="text-align:center;">
-    <img src="readme-images/setup-1.png" alt="Image 1 for Setup" width="50%" height="50%" style="display:inline-block; margin-right:20px; margin-left:-100px;">
-    <img src="readme-images/setup-2.png" alt="Image 2 for Setup" width="50%" height="50%" style="display:inline-block; margin-left:0px; margin-right:-124px;">
+    <img src="readme-images/setup-1.png" alt="Image 1 for Setup" width="50%" height="50%" style="display:inline-block;">
+    <img src="readme-images/setup-2.png" alt="Image 2 for Setup" width="50%" height="50%" style="display:inline-block;">
     </div>
 3. Now that we have the databases ready, you can proceed to import the data using the CSV sheets in the *data* folder.  (Read more about the databases [here.](#databases))
 
