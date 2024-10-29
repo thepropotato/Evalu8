@@ -60,8 +60,8 @@ The setup for this project is pretty simple and straight-forward. Just following
     - Also create a few databases in the connection. The connection should have the following databases.
     <br>
     <div style="text-align:center; display:flex; justify-content:space-between">
-    <img src="readme-images/setup-1.png" alt="Image 1 for Setup" width="49.75%" height="50%" style="display:inline-block;">
-    <img src="readme-images/setup-2.png" alt="Image 2 for Setup" width="49%" height="50%" style="display:inline-block;">
+    <img src="https://github.com/thepropotato/Evalu8/blob/main/readme-images/setup-1.png" alt="Image 1 for Setup" width="49.75%" height="50%" style="display:inline-block;">
+    <img src="https://github.com/thepropotato/Evalu8/blob/main/readme-images/setup-2.png" alt="Image 2 for Setup" width="49%" height="50%" style="display:inline-block;">
     </div>
 3. Now that we have the databases ready, you can proceed to import the data using the CSV sheets in the *data* folder.  (Read more about the databases [here.](#databases))
 
@@ -147,38 +147,38 @@ Within our MongoDB connection named EVALU8, we have 11 databases (excluding the 
 
 1. Home page
 
-![Home Page](readme-images/home.png)
+![Home Page](https://github.com/thepropotato/Evalu8/blob/main/readme-images/home.png)
 
 2. Login page
 
-![Login Page](readme-images/login.png)
+![Login Page](https://github.com/thepropotato/Evalu8/blob/main/readme-images/login.png)
 
 <h1 id="faculty-portal">Faculty Portal</h1>
 
 The faculty stream of the project features a set of pages.
 1. Faculty Dashboard
 
-![Faculty Dashboard](readme-images/faculty-dashboard.png)
+![Faculty Dashboard](https://github.com/thepropotato/Evalu8/blob/main/readme-images/faculty-dashboard.png)
 
 2. Courses (Faculty)
 
-![Faculty Courses](readme-images/faculty-courses.png)
+![Faculty Courses](https://github.com/thepropotato/Evalu8/blob/main/readme-images/faculty-courses.png)
 
 3. Tests (Faculty)
 
-![Faculty Tests](readme-images/faculty-tests.png)
+![Faculty Tests](https://github.com/thepropotato/Evalu8/blob/main/readme-images/faculty-tests.png)
 
 Once a faculty clicks on the 'Show results' button on a test, the following page will show up.
 
-![Faculty Test Result](readme-images/faculty-test-result.png)
+![Faculty Test Result](https://github.com/thepropotato/Evalu8/blob/main/readme-images/faculty-test-result.png)
 
 4. Profile (Faculty)
 
-![Faculty Profile](readme-images/faculty-profile.png)
+![Faculty Profile](https://github.com/thepropotato/Evalu8/blob/main/readme-images/faculty-profile.png)
 
 5. Add Test
 
-![Create Test](readme-images/faculty-create-test.png)
+![Create Test](https://github.com/thepropotato/Evalu8/blob/main/readme-images/faculty-create-test.png)
 
 <br>
 
@@ -187,27 +187,27 @@ Once a faculty clicks on the 'Show results' button on a test, the following page
 The student stream of the project features a set of pages.
 1. Student Dashboard
 
-![Student Dashboard](readme-images/student-dashboard.png)
+![Student Dashboard](https://github.com/thepropotato/Evalu8/blob/main/readme-images/student-dashboard.png)
 
 2. Courses (Student)
 
-![Student Courses](readme-images/student-courses.png)
+![Student Courses](https://github.com/thepropotato/Evalu8/blob/main/readme-images/student-courses.png)
 
 3. Tests (Student)
 
-![Student Tests](readme-images/student-tests.png)
+![Student Tests](https://github.com/thepropotato/Evalu8/blob/main/readme-images/student-tests.png)
 
 Once a student clicks on the 'Show results' button on an evaluated test, the following page will show up.
 
-![Student Test Result](readme-images/student-test-result.png)
+![Student Test Result](https://github.com/thepropotato/Evalu8/blob/main/readme-images/student-test-result.png)
 
 4. Profile (Student)
 
-![Student Profile](readme-images/student-profile.png)
+![Student Profile](https://github.com/thepropotato/Evalu8/blob/main/readme-images/student-profile.png)
 
 5. Take Test
 
-![Take Test](readme-images/student-dashboard.png)
+![Take Test](https://github.com/thepropotato/Evalu8/blob/main/readme-images/student-dashboard.png)
 
 <br>
 
